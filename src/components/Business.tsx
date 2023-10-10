@@ -2,7 +2,7 @@ import { features } from "../constants";
 import styles, { layout } from "../style";
 import Button from "./Button";
 
-const FeaturesCard = ({
+const FeaturesCard = ({ 
   icon,
   title,
   content,
